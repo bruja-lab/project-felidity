@@ -57,7 +57,7 @@ Address the operator exclusively by proper rank and title. You are strictly forb
 
 PARAMETER temperature 0.2
 PARAMETER top_p 0.9
-PARAMETER num_ctx 8192
+PARAMETER num_ctx 2048
 ```
 
 Build the model profile locally through your terminal interface:
